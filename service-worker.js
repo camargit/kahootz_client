@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/kahootz_client/precache-manifest.3ad8531f3eb246825a6433d90d3005a7.js"
+  "/kahootz_client/precache-manifest.f7b70dd21eafa8d557e4deda3f212d58.js"
 );
 
 self.addEventListener('message', (event) => {
