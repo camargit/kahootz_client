@@ -5,7 +5,7 @@
 * Ruby version: ruby 2.6.2p47 (2019-03-13 revision 67232)
 * Rails version: Rails 5.2.3
 * Database: PostgreSQL 11
-* Messaging: JSON Web Tokens & Action Cable 
+* Messaging: JSON Web Tokens, Action Cable, Firebase
 * Style: SCSS
 * Hosted: Heroku
 
