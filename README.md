@@ -1,5 +1,7 @@
 # General Assembly Group Project - Kahoot Clone (Client Side)
 
+### Live Link: https://jamaspy.github.io/kahootz_client/
+
 ## Technology
 * ReactJS version: v16.8
 * Ruby version: ruby 2.6.2p47 (2019-03-13 revision 67232)
